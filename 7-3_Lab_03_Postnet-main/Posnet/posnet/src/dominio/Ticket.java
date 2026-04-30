@@ -15,10 +15,12 @@ public class Ticket {
         this.montoCuota = montoCuota;
     }
 
+    //obtener datos
     public String getNombre() {
         return nombre;
     }
 
+    //modificar datos
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
